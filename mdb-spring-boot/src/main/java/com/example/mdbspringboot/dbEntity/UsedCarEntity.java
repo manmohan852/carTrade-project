@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.List;
 
-@Document("used_car_entity3")
+@Document("used_car_entity")
 @Data
 public class UsedCarEntity {
 
